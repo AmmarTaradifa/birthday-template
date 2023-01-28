@@ -582,7 +582,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 1350px) {
   #overlay .content .container {
-    padding-top: 200px;
+    padding-top: 300px;
   }
 }
 
@@ -594,6 +594,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 991px) {
+  #overlay .content .container {
+    padding-top: 300px;
+  }
+  
   #overlay .content .centered {
     height: 20.5%;
     width: 11%;
@@ -734,6 +738,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 495px) {
+  #overlay .content .container {
+    padding-top: 500px;
+  }
 
   #overlay .content .centered {
     height: 19%;
@@ -748,6 +755,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 480px) {
 
+  #overlay .content .container {
+    padding-top: 300px;
+  }
   #overlay .content .couple-main {
     width: 200px;
   }
@@ -762,6 +772,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 465px) {
 
+  #overlay .content .container {
+    padding-top: 200px;
+  }
+
   #overlay .content .centered {
     height: 21%;
     width: 14.7%;
@@ -771,6 +785,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 455px) {
+
+  #overlay .content .container {
+    padding-top: 200px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -782,6 +800,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 446px) {
 
+  #overlay .content .container {
+    padding-top: 300px;
+  }
+
   #overlay .content .centered {
     height: 21%;
     width: 15.5%;
@@ -791,6 +813,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 432px) {
+
+  #overlay .content .container {
+    padding-top: 300px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -802,6 +828,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 @media screen and (max-width: 421px) {
+#overlay .content .container {
+    padding-top: 300px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -813,6 +842,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 411px) {
 
+  #overlay .content .container {
+    padding-top: 300px;
+  }
+
   #overlay .content .centered {
     height: 21%;
     width: 16.8%;
@@ -823,6 +856,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 397px) {
 
+  #overlay .content .container {
+    padding-top: 300px;
+  }
     
   #overlay .content .centered {
     height: 21%;
@@ -833,6 +869,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 385px) {
+  #overlay .content .container {
+    padding-top: 300px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -843,6 +882,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 372px) {
+  #overlay .content .container {
+    padding-top: 400px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -855,6 +897,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 362px) {
 
+  #overlay .content .container {
+    padding-top: 400px;
+  }
   #overlay .content .centered {
     height: 21%;
     width: 19%;
@@ -864,6 +909,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 352px) {
+  #overlay .content .container {
+    padding-top: 400px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -876,6 +924,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 @media screen and (max-width: 340px) {
+#overlay .content .container {
+    padding-top: 400px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -886,6 +937,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 330px) {
+#overlay .content .container {
+    padding-top: 400px;
+  }
 
   #overlay .content .centered {
     height: 21%;
@@ -897,6 +951,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 319px) {
 
+  #overlay .content .container {
+    padding-top: 400px;
+  }
+  
   #overlay .content .centered {
     height: 21%;
     width: 22%;
