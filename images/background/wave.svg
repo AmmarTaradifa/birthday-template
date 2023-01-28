@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="100%"
-   height="100%"
-   id="svg"
-   viewBox="0 0 1440 400"
-   class="transition duration-300 ease-in-out delay-150"
+   width="380.99997mm"
+   height="83.442856mm"
+   viewBox="0 0 380.99997 83.442856"
    version="1.1"
-   sodipodi:docname="wave-test.svg"
+   id="svg5"
+   xml:space="preserve"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview59"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -21,17 +21,37 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.56666667"
-     inkscape:cx="720"
-     inkscape:cy="199.41176"
+     inkscape:zoom="0.46057099"
+     inkscape:cx="397.33289"
+     inkscape:cy="560.17423"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
-  <style
+     inkscape:current-layer="layer1" /><defs
+     id="defs2"><style
+       type="text/css"
+       id="style1424">
+   <![CDATA[
+    .fil0 {fill:#586472}
+   ]]>
+  </style></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(41.138295,-89.257291)"><g
+       id="g983"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.138295,66.866821)"><path
+         d="m 0,400 c 0,0 0,-267 0,-267 91.582274,8.66712 183.16455,17.33425 238,29 54.83545,11.66575 72.92408,26.33013 139,18 66.07592,-8.33013 180.13913,-39.65476 258,-52 77.86087,-12.34524 119.51941,-5.7111 189,-15 69.48059,-9.2889 166.78324,-34.500859 235,-27 68.2168,7.500859 107.3476,47.71453 166,61 58.6524,13.28547 136.8262,-0.35727 215,-14 0,0 0,267 0,267 z"
+         stroke="none"
+         stroke-width="0"
+         fill="url(#gradient)"
+         class="transition-all duration-300 ease-in-out delay-150 path-0"
+         id="path44"
+         style="fill:#539896;fill-opacity:1" /></g></g><style
      id="style35">
           .path-0{
             animation:pathAnim-0 4s;
@@ -54,34 +74,7 @@
             100%{
               d: path(&quot;M 0,400 C 0,400 0,133 0,133 C 91.58227413260047,141.667124699416 183.16454826520095,150.33424939883201 238,162 C 292.83545173479905,173.66575060116799 310.9240810717967,188.33012710408792 377,180 C 443.0759189282033,171.66987289591208 557.1391274476125,140.34524218481624 635,128 C 712.8608725523875,115.65475781518376 754.5194091377534,122.28890415664719 824,113 C 893.4805908622466,103.71109584335281 990.783236001374,78.49914118859499 1059,86 C 1127.216763998626,93.50085881140501 1166.3476468567503,133.71453108897285 1225,147 C 1283.6523531432497,160.28546891102715 1361.8261765716247,146.64273445551356 1440,133 C 1440,133 1440,400 1440,400 Z&quot;);
             }
-          }</style>
-  <defs
-     id="defs42">
-    <linearGradient
-       id="gradient"
-       x1="1%"
-       y1="58%"
-       x2="99%"
-       y2="42%">
-      <stop
-         offset="5%"
-         stop-color="#7aabf588"
-         id="stop37" />
-      <stop
-         offset="95%"
-         stop-color="#421e09b488"
-         id="stop39" />
-    </linearGradient>
-  </defs>
-  <path
-     d="M 0,400 C 0,400 0,133 0,133 C 91.58227413260047,141.667124699416 183.16454826520095,150.33424939883201 238,162 C 292.83545173479905,173.66575060116799 310.9240810717967,188.33012710408792 377,180 C 443.0759189282033,171.66987289591208 557.1391274476125,140.34524218481624 635,128 C 712.8608725523875,115.65475781518376 754.5194091377534,122.28890415664719 824,113 C 893.4805908622466,103.71109584335281 990.783236001374,78.49914118859499 1059,86 C 1127.216763998626,93.50085881140501 1166.3476468567503,133.71453108897285 1225,147 C 1283.6523531432497,160.28546891102715 1361.8261765716247,146.64273445551356 1440,133 C 1440,133 1440,400 1440,400 Z"
-     stroke="none"
-     stroke-width="0"
-     fill="url(#gradient)"
-     class="transition-all duration-300 ease-in-out delay-150 path-0"
-     id="path44"
-     style="fill:#fba2ed;fill-opacity:1" />
-  <style
+          }</style><style
      id="style46">
           .path-1{
             animation:pathAnim-1 4s;
@@ -104,31 +97,4 @@
             100%{
               d: path(&quot;M 0,400 C 0,400 0,266 0,266 C 75.12469941600824,241.75747165922365 150.24939883201648,217.51494331844728 211,228 C 271.7506011679835,238.48505668155272 318.1271040879423,283.69769838543453 383,287 C 447.8728959120577,290.30230161456547 531.2421848162143,251.69426313981452 610,252 C 688.7578151837857,252.30573686018548 762.9041566472004,291.5252490553074 840,289 C 917.0958433527996,286.4747509446926 997.1411885949844,242.2047406389557 1053,246 C 1108.8588114050156,249.7952593610443 1140.5310889728617,301.6557883888698 1201,313 C 1261.4689110271383,324.3442116111302 1350.7344555135692,295.17210580556514 1440,266 C 1440,266 1440,400 1440,400 Z&quot;);
             }
-          }</style>
-  <defs
-     id="defs54">
-    <linearGradient
-       id="linearGradient52"
-       x1="1%"
-       y1="58%"
-       x2="99%"
-       y2="42%">
-      <stop
-         offset="5%"
-         stop-color="#7aabf5ff"
-         id="stop48" />
-      <stop
-         offset="95%"
-         stop-color="#421e09b4ff"
-         id="stop50" />
-    </linearGradient>
-  </defs>
-  <path
-     d="M 0,400 C 0,400 0,266 0,266 C 75.12469941600824,241.75747165922365 150.24939883201648,217.51494331844728 211,228 C 271.7506011679835,238.48505668155272 318.1271040879423,283.69769838543453 383,287 C 447.8728959120577,290.30230161456547 531.2421848162143,251.69426313981452 610,252 C 688.7578151837857,252.30573686018548 762.9041566472004,291.5252490553074 840,289 C 917.0958433527996,286.4747509446926 997.1411885949844,242.2047406389557 1053,246 C 1108.8588114050156,249.7952593610443 1140.5310889728617,301.6557883888698 1201,313 C 1261.4689110271383,324.3442116111302 1350.7344555135692,295.17210580556514 1440,266 C 1440,266 1440,400 1440,400 Z"
-     stroke="none"
-     stroke-width="0"
-     fill="url(#gradient)"
-     class="transition-all duration-300 ease-in-out delay-150 path-1"
-     id="path56"
-     style="fill:#ef6fe9;fill-opacity:1" />
-</svg>
+          }</style></svg>

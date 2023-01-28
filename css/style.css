@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Satisfy", Arial, sans-serif;
+  font-family: "Boogaloo", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -469,16 +469,26 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 200px;
 }
 
+#fh5co-couple .foto-anak {
+  width: 200px;
+}
+
 #fh5co-header .centered {
   position: absolute;
   top: 55%;
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Boogaloo", Arial, serif;
   left: 50%;
   font-size: 48px;
   transform: translate(-50%, -50%);
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .couple-main {
+    width: 250px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #fh5co-couple .foto-anal {
     width: 250px;
   }
 }
@@ -492,7 +502,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 #fh5co-header h1 {
-  font-size: 60px;
+  font-size: 70px;
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bolder;
@@ -502,6 +512,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-header h2 {
   color: #036663;
+  font-size: 70px;
   font-family: "Just Another Hand", serif;
 }
 
@@ -549,7 +560,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 19%;
   width: 10%;
   top: 40%;
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Boogaloo", Arial, serif;
   left: 35%;
   font-size: 48px;
   transform: translate(-50%, -50%);
@@ -561,7 +572,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   font-weight: normal;
   color: #036663;
-  font-family: "Spicy Rice", serif;
+  font-family: "Boogaloo", serif;
 }
 @media screen and (max-width: 480px) {
   #overlay .content h1 {
@@ -570,8 +581,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 1350px) {
-  #overlay .content {
-    padding-top: 130px;
+  #overlay .content .container {
+    padding-top: 200px;
   }
 }
 
@@ -699,15 +710,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 524px) {
-  #overlay .content .container{
-  padding-top: 13%;
-    
-  }
+
   #overlay .content .centered {
-    height: 16.5%;
+    height: 19%;
     width: 15%;
     left: 30%;
-    top: 45%;
+    top: 35%;
 
     
   }
@@ -716,10 +724,10 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 513px) {
 
   #overlay .content .centered {
-    height: 16.5%;
-    width: 15.5%;
+    height: 19%;
+    width: 15%;
     left: 30%;
-    top: 45%;
+    top: 35%;
 
     
   }
@@ -728,10 +736,10 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 495px) {
 
   #overlay .content .centered {
-    height: 16.5%;
-    width: 16.1%;
+    height: 19%;
+    width: 15.5%;
     left: 30%;
-    top: 45%;
+    top: 35%;
 
     
   }
@@ -739,11 +747,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 @media screen and (max-width: 480px) {
-  #overlay .content .container{
-    padding-top: 30%;
-      
-    }
-  
+
   #overlay .content .couple-main {
     width: 200px;
   }
@@ -798,64 +802,53 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 @media screen and (max-width: 421px) {
-  #overlay .content .container{
-    padding-top: 25%;
-      
-    }
-  
-  #overlay .content .couple-main {
-    width: 200px;
-  }
 
   #overlay .content .centered {
-    height: 18%;
-    width: 16.3%;
-    left: 30%;
-    top: 45%;
+    height: 21%;
+    width: 16.5%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 411px) {
 
   #overlay .content .centered {
-    height: 18%;
-    width: 16.7%;
-    left: 30%;
-    top: 45%;
+    height: 21%;
+    width: 16.8%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 397px) {
-  #overlay .content .container{
-    padding-top: 30%;
-      
-    }
+
     
   #overlay .content .centered {
-    height: 18%;
-    width: 17.4%;
-    left: 30%;
-    top: 45%;
+    height: 21%;
+    width: 17%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 385px) {
 
   #overlay .content .centered {
-    height: 18%;
+    height: 21%;
     width: 18%;
-    left: 30%;
-    top: 45%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 372px) {
 
   #overlay .content .centered {
-    height: 18%;
+    height: 21%;
     width: 18.5%;
-    left: 28%;
-    top: 45%;
+    left: 31%;
+    top: 35%;
   }
 }
 
@@ -863,54 +856,52 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 362px) {
 
   #overlay .content .centered {
-    height: 18%;
+    height: 21%;
     width: 19%;
-    left: 26%;
-    top: 45%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 352px) {
 
   #overlay .content .centered {
-    height: 18%;
-    width: 19.8%;
-    left: 26%;
-    top: 45%;
+    height: 21%;
+    width: 19.7%;
+    left: 31%;
+    top: 35%;
   }
 }
+
+
 
 @media screen and (max-width: 340px) {
 
   #overlay .content .centered {
-    height: 18%;
-    width: 20.3%;
-    left: 26%;
-    top: 45%;
+    height: 21%;
+    width: 20.5%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 330px) {
 
-  #overlay .content .container {
-    padding-top: 35%;
-  }
-
   #overlay .content .centered {
-    height: 18%;
+    height: 21%;
     width: 21%;
-    left: 26%;
-    top: 45%;
+    left: 31%;
+    top: 35%;
   }
 }
 
 @media screen and (max-width: 319px) {
 
   #overlay .content .centered {
-    height: 18%;
-    width: 21.7%;
-    left: 24%;
-    top: 45%;
+    height: 21%;
+    width: 22%;
+    left: 31%;
+    top: 35%;
   }
 }
 
@@ -1386,7 +1377,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 /* Ayat */
 #fh5co-ayat{
-  background-image: url('../images/background/repeat-background/bg-4.jpg');
+  background-image: url('../images/background/repeat-background/bg-dasar.png');
   color: #036663;
   font-size: 24px;
   position: relative;
@@ -1678,26 +1669,38 @@ form label {
 
 #fh5co-couple{
   /*background-image: url("../images/background/repeat-background/concrete-texture.png");*/
-  background-repeat : repeat;
+  /* background-repeat : repeat; */
   position: relative;
+}
+
+#fh5co-couple .text-center{
+  text-align: center !important;
+}
+
+/* @media screen and (max-width: 768px) {
+  #fh5co-couple .text-center{
+      width: 200px;
+    }
+  } */
+
+#fh5co-couple .card {
+  border-radius: 0px !important;
 }
 
 #fh5co-gallery{
   /*background-image: url("../images/background/repeat-background/ep_naturalwhite.png");*/
-  background-repeat : repeat;
   position: relative;
   overflow: hidden;
 }
 
 #fh5co-testimonial{
   /*background-image: url("../images/background/repeat-background/vintage-concrete.png");*/
-  background-repeat : repeat;
+  /* background-repeat : repeat; */
   position: relative;
 }
 
 #fh5co-form{
   /*background-image: url("../images/background/repeat-background/vintage-concrete.png");*/
-  background-repeat : repeat;
   position: relative;
 }
 
@@ -1752,7 +1755,8 @@ form label {
 
 .couple-half {
   width: 50%;
-  float: left;
+  margin-left: 10%;
+  /* justify-content: center; */
 }
 @media screen and (max-width: 768px) {
   .couple-half {
@@ -1801,8 +1805,10 @@ form label {
   margin-left: 5px;
 }
 .couple-half .desc-groom {
-  padding-right: 180px;
-  text-align: right;
+  /* padding-right: 180px; */
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 80px;
+  text-align: center;
 }
 .couple-half .desc-bride {
   padding-left: 180px;
@@ -1877,7 +1883,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: #036663;
-  font-family: "Satisfy", Arial, serif;
+  font-family: "Boogaloo", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
@@ -2005,7 +2011,7 @@ form label {
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide blockquote p {
   font-style: italic;
-  color: #8f989f;
+  color: #036663;
   font-size: 20px;
   line-height: 1.6em;
 }
@@ -2479,7 +2485,7 @@ form label {
 
 .btn-primary {
   color: #036663 !important;
-  background-color: #facaaf6b !important;
+  background-color: #fff !important;
   border-color: #036663 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -2959,7 +2965,7 @@ fadeIn {  from {
     bottom: 5%;
   }
   .flower-bukutamu-right{
-    height: 25%;
+    height: 15%;
   }
   .flower-bukutamu-left{
     height: 20%;
