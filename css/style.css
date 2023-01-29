@@ -582,7 +582,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 1350px) {
   #overlay .content .container {
-    padding-top: 175px;
+    padding-top: 250px;
   }
 }
 
@@ -594,9 +594,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 991px) {
-  #overlay .content .container {
+  /* #overlay .content .container {
     padding-top: 300px;
-  }
+  } */
   
   #overlay .content .centered {
     height: 20.5%;
@@ -738,9 +738,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 495px) {
-  #overlay .content .container {
+  /* #overlay .content .container {
     padding-top: 300px;
-  }
+  } */
 
   #overlay .content .centered {
     height: 19%;
