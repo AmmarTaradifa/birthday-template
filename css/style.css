@@ -469,7 +469,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 200px;
 }
 
-#fh5co-couple .foto-anak {
+#fh5co-pembuka .foto-anak {
   width: 200px;
 }
 
@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 480px) {
-  #fh5co-couple .foto-anal {
+  #fh5co-pembuka .foto-anak {
     width: 250px;
   }
 }
@@ -546,9 +546,9 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 2001;
   top: 0;
 }
-/* #overlay .content .container {
-  padding-top: 50px;
-} */
+#overlay .content .container {
+  padding-top: 100px;
+}
 #overlay .content .couple-main {
   width: 250px;
 }
@@ -582,9 +582,54 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 1350px) {
   #overlay .content .container {
-    padding-top: 200px;
+    padding-top:180px;
   }
 }
+
+@media screen and (max-height: 1350px) {
+  #overlay .content .container {
+    padding-top:280px;
+  }
+}
+
+@media screen and (max-height: 1000px) {
+  #overlay .content .container {
+    padding-top:300px;
+  }
+}
+
+@media screen and (max-height: 900px) {
+  #overlay .content .container {
+    padding-top:250px;
+  }
+}
+
+@media screen and (max-height: 700px) {
+  #overlay .content .container {
+    padding-top:150px;
+  }
+}
+
+@media screen and (max-height: 600px) {
+  #overlay .content .container {
+    padding-top:150px;
+  }
+}
+
+@media screen and (max-height: 500px) {
+  #overlay .content .container {
+    padding-top:90px;
+  }
+}
+
+@media screen and (max-height: 400px) {
+  #overlay .content .container {
+    padding-top:50px;
+  }
+}
+
+
+
 
 @media screen and (max-width: 1200px) {
   #overlay .content .centered {
@@ -1448,6 +1493,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-ayat{
   background-image: url('../images/background/repeat-background/bg-dasar.png');
   color: #036663;
+  background-size: cover;
   font-size: 24px;
   position: relative;
   overflow: hidden;
@@ -1716,7 +1762,7 @@ form label {
 #fh5co-footer,
 #fh5co-event,
 #fh5co-couple-story,
-#fh5co-couple,
+#fh5co-pembuka,
 #fh5co-gallery,
 .fh5co-section {
   padding: 7em 0;
@@ -1729,20 +1775,20 @@ form label {
 #fh5co-footer,
 #fh5co-event,
 #fh5co-couple-story,
-#fh5co-couple,
+#fh5co-pembuka,
 #fh5co-gallery,
 .fh5co-section {
     padding: 3em 0;
   }
 }
 
-#fh5co-couple{
+#fh5co-pembuka{
   /*background-image: url("../images/background/repeat-background/concrete-texture.png");*/
   /* background-repeat : repeat; */
   position: relative;
 }
 
-#fh5co-couple .text-center{
+#fh5co-pembuka .text-center{
   text-align: center !important;
 }
 
@@ -1752,7 +1798,7 @@ form label {
     }
   } */
 
-#fh5co-couple .card {
+#fh5co-pembuka .card {
   border-radius: 0px !important;
 }
 
@@ -1778,7 +1824,7 @@ form label {
   font-weight: normal;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-couple .fh5co-heading h2 {
+  #fh5co-pembuka .fh5co-heading h2 {
     font-size: 28px;
   }
 }
@@ -3076,7 +3122,7 @@ fadeIn {  from {
   width: 100%;
   height: 100%;
   opacity: 0.15;
-  background-image: url('../images/background/bg-1.jpg');
+  background-image: url('../images/background/repeat-background/bg.png');
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
